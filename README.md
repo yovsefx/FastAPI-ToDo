@@ -20,12 +20,17 @@ SQLAlchemy using Clean Architecture principles.
 
 app/
 │── main.py
+
 │── database.py
-│
+
 ├── models/
+
 ├── schemas/
+
 ├── repository/
+
 ├── service/
+
 └── routers/
 
 ------------------------------------------------------------------------
