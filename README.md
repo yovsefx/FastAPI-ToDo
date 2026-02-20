@@ -37,7 +37,6 @@ app/
 
 This project follows a simplified Clean Architecture approach:
 
--   Router Layer → Handles HTTP requests
 -   Service Layer → Contains business logic
 -   Repository Layer → Manages database operations
 -   Models → SQLAlchemy ORM models
